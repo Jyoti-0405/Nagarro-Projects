@@ -1,0 +1,9 @@
+com\nagarro\controller\Logout.class
+com\nagarro\dao\ProductDao.class
+com\nagarro\controller\Password.class
+com\nagarro\dao\LoginDao.class
+com\nagarro\model\User.class
+com\nagarro\controller\Authenticator.class
+com\nagarro\controller\Delete.class
+com\nagarro\controller\ProductController.class
+com\nagarro\model\Product.class

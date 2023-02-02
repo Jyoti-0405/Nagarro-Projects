@@ -1,0 +1,14 @@
+com\nagarro\entity\User.class
+com\nagarro\configuration\WebInitializer.class
+com\nagarro\entity\Book.class
+com\nagarro\service\AuthenticationServiceImplementation.class
+com\nagarro\service\AuthorsListService.class
+com\nagarro\service\AuthenticationService.class
+com\nagarro\service\BookServiceImplementation.class
+com\nagarro\entity\UserModel.class
+com\nagarro\controller\LoginController.class
+com\nagarro\service\AuthorsListServiceImplementation.class
+com\nagarro\controller\ViewController.class
+com\nagarro\entity\Author.class
+com\nagarro\service\BookService.class
+com\nagarro\configuration\WebMVCConfiguration.class
